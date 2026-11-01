@@ -1,6 +1,6 @@
 ## Hi, I'm Adela!
 
-👩🏽‍💻 studying Business Informatics at [<technische Hochschule Ulm](https://www.thu.de/) in Germany<br/>
+👩🏽‍💻 studying Business Informatics at [Technische Hochschule Ulm](https://www.thu.de/) in Germany<br/>
 💭 always curious about how things work, especially in game development, cybersecurity, and new innovations in software development!<br/>
 🪷 my [LinkedIn](https://linkedin.com/in/adela-knobling-454770378)<br/>
 
